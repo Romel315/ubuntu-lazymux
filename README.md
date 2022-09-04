@@ -1,6 +1,8 @@
 # Lazymux for ubuntu
-<p align="center">Just done in like 5 secounds</p>
+<p align="center">Just done in like 5 secoafainds</p>
+
 # How it works???
+
 It got like the core pasted inside and patched some useless writestatus, main loop.
 
 > Done in like 5 mins in nano
