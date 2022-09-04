@@ -1,5 +1,5 @@
 # Lazymux for ubuntu
-<p align="center">Just done in like 5 seconds</p>
+<p align="center">Not barrier for me, Why theese guys were making so much spaghetti code in it? This needs complete rewrite.</p>
 
 # How it works???
 
