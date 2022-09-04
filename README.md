@@ -10,5 +10,6 @@ It got like the core pasted inside and patched some useless writestatus, main lo
 - [x] Ubuntu server / Desktop
 - [x] Linux mint
 - [x] Termux
-- [x] Arch linux
-- [x] Probably every thing that can hold python3
+- [x] Probably every thing that can hold python3 and apt.
+
+> Working also in arch linux after replacing some shit
