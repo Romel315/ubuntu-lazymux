@@ -1,5 +1,5 @@
 # Lazymux for ubuntu
-<p align="center">Just done in like 5 secoafainds</p>
+<p align="center">Just done in like 5 seconds</p>
 
 # How it works???
 
