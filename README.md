@@ -14,4 +14,4 @@ It got like the core pasted inside and patched some useless writestatus, main lo
 - [x] Termux
 - [x] Probably every thing that can hold python3 and apt.
 
-> Working also in arch linux after replacing some shit
+> Working also in arch linux after replacing package management shit
