@@ -1,5 +1,5 @@
 # Lazymux for ubuntu
-<p align="center">Not barrier for me, Why theese guys were making so much spaghetti code in it? This needs complete rewrite.</p>
+<p align="center">Not barrier for me, Why deez guys were making so much spaghetti code in it? This needs complete rewrite.</p>
 
 # How it works???
 
